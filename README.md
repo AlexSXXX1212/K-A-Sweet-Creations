@@ -14,3 +14,15 @@ Productos
 
 * chocolatina rellena
 
+
+
+Roles del sistema
+
+\-cliente
+
+\-administrador
+
+\-vendedor
+
+\-productor
+
