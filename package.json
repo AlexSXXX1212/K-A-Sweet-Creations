@@ -1,0 +1,28 @@
+{
+  "name": "k-a-sweet-creations",
+  "version": "1.0.0",
+  "description": "¨Proyecto K&A sweet creations",
+  "homepage": "https://github.com/AlexSXXX1212/K-A-Sweet-Creations#readme",
+  "bugs": {
+    "url": "https://github.com/AlexSXXX1212/K-A-Sweet-Creations/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexSXXX1212/K-A-Sweet-Creations.git"
+  },
+  "license": "ISC",
+  "author": "AlexSXXX1212",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
