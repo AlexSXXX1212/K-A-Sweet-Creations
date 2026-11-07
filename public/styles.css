@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; margin: 0; background: #fff5f8; }
+nav { background: #d6336c; padding: 12px; display: flex; gap: 16px; flex-wrap: wrap; }
+nav a { color: white; text-decoration: none; font-weight: bold; }
+nav a:hover { text-decoration: underline; }
+main { max-width: 600px; margin: 30px auto; padding: 20px; background: white; border-radius: 8px; }
+label { display: block; margin-top: 12px; }
+input { width: 100%; padding: 8px; margin-top: 4px; box-sizing: border-box; }
+.botones { margin-top: 20px; display: flex; gap: 10px; }
+button { padding: 10px 16px; border: none; border-radius: 4px; background: #d6336c; color: white; cursor: pointer; }
